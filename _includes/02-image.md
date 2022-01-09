@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![camera](https://octodex.github.com/filmtocats/)
